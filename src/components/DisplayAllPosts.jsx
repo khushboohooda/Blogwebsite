@@ -10,15 +10,15 @@ const DisplayAllPosts = () => {
   const [allPosts, setAllPosts] = useState([
     {
       id: 1,
-      title: "React",
+      title: "A Guide to Transformative Travel Experiences",
       content:
-        "React is a JavaScript library created for building fast and interactive user interfaces for web and mobile applications. It is an open-source, component-based, front-end library responsible only for the application’s view layer. In Model View Controller (MVC) architecture, the view layer is responsible for how the app looks and feels. React was created by Jordan Walke, a software engineer at Facebook. "
+        "Travel is more than just visiting new places; it's about embracing new cultures, meeting diverse people, and growing through unique experiences. Each journey offers a chance to step out of your comfort zone, whether you're exploring ancient ruins, savoring local delicacies, or simply marveling at breathtaking landscapes. Transformative travel isn't about the destination, but the stories you collect along the way and the person you become. This blog will guide you through crafting unforgettable travel experiences, from planning your trip to immersing yourself fully in the adventure. Get ready to see the world with fresh eyes and an open heart"
     },
     {
       id: 2,
-      title: "Django",
+      title: "A Culinary Adventure Across Continents",
       content:
-        "Django is a free and open source, full-stack web application framework, written in Python. Django Python is a framework for perfectionists with deadlines. With it, you can build better Web apps in much less time, and in less code."
+        "Food is a universal language that connects us all, transcending borders and cultures. Each dish tells a story of its origins, traditions, and the people who create it. Whether it's savoring spicy street food in Bangkok, indulging in rich pastries in Paris, or enjoying a hearty barbecue in Texas, culinary experiences are an integral part of travel. This blog will take you on a delicious journey around the globe, exploring diverse cuisines, discovering hidden gems, and sharing recipes that bring the world to your kitchen. Join us in celebrating the flavors that make our world a vibrant, tasty place to explore."
     }
   ]);
   // const [allPosts, setAllPosts] = useState([]) // can also be used
